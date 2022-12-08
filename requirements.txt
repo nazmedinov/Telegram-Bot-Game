@@ -1,0 +1,2 @@
+language_tool_python==2.7.1
+pyTelegramBotAPI==4.8.0
