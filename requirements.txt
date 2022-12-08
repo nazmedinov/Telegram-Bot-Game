@@ -1,4 +1,4 @@
 language_tool_python==2.7.1
 pyTelegramBotAPI==4.8.0
 gunicorn==20.1.0
-java==1.8.0_333
+Py4J==2.0
